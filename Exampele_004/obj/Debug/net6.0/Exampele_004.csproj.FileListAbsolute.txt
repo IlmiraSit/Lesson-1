@@ -1,0 +1,15 @@
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.csproj.AssemblyReference.cache
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.AssemblyInfoInputs.cache
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.AssemblyInfo.cs
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.csproj.CoreCompileInputs.cache
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\bin\Debug\net6.0\Exampele_004.exe
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\bin\Debug\net6.0\Exampele_004.deps.json
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\bin\Debug\net6.0\Exampele_004.runtimeconfig.json
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\bin\Debug\net6.0\Exampele_004.dll
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\bin\Debug\net6.0\Exampele_004.pdb
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.dll
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\refint\Exampele_004.dll
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.pdb
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\Exampele_004.genruntimeconfig.cache
+C:\Users\Алсу\Desktop\Lesson 1\Exampele_004\obj\Debug\net6.0\ref\Exampele_004.dll
